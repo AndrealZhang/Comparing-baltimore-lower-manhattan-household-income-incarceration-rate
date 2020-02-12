@@ -4,4 +4,5 @@ Analyzing the differences between household income for the lowest 25th percentil
 
 ## Household Income
 ### Baltimore, MD
-After downloading the data for household income by census tract from [Opportunity Atlas](https://www.opportunityatlas.org), filter the county name for Baltimore, MD. 
+After downloading the data for household income by census tract from [Opportunity Atlas](https://www.opportunityatlas.org), filter the county name for Baltimore, MD and calculate the average household income among the tracts in Baltimore. Using this data, create a Pivot Table and Pivot Chart displaying the household incomes and average household income.
+
