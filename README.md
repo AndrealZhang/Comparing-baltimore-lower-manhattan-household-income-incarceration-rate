@@ -23,3 +23,5 @@ From this Pivot Chart, we can see that the average household income for the lowe
 ### Baltimore, MD
 Download the incarceration rates data by census tract from [Opportunity Atlas](https://www.opportunityatlas.org) and filter for Baltimore, MD. Use VLookup to paste this data into the same sheet as the data with household income and highlight the two rows to create a scatterplot to find the relationship between household income and incarceration rates for the lowest 25th percentile in Baltimore.
 
+![alt_text](https://github.com/AndrealZhang/Comparing-baltimore-lower-manhattan-household-income-incarceration-rate/blob/master/Baltimore_scatterplot.png)
+
