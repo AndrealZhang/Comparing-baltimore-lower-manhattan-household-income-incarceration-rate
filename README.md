@@ -1,6 +1,7 @@
 # Comparing the household income and incarceration rate in Baltimore, MD and Lower Manhattan, NY
 ## Background
-Analyzing the differences between household income for the lowest 25th percentile of people (all races, all genders) in Baltimore and Lower Manhattan. Also looking at if there is a relationship between incarceration rates and household income in the two locations. 
+1. Analyzing the differences between household income for the lowest 25th percentile of people (all races, all genders) in Baltimore and Lower Manhattan. 
+2. Looking at if there is a relationship between incarceration rates and household income in the two locations. 
 
 ## Household Income
 ### Baltimore, MD
@@ -18,4 +19,7 @@ After filtering the household incomes for the tracts within Lower Manhattan and 
 From this Pivot Chart, we can see that the average household income for the lowest 25th percentile is around $38,607 - $6,000 higher than the average in Baltimore.
 
 
-## Incarceration Rate
+## Incarceration Rates
+### Baltimore, MD
+Download the incarceration rates data by census tract from [Opportunity Atlas](https://www.opportunityatlas.org) and filter for Baltimore, MD. Use VLookup to paste this data into the same sheet as the data with household income and highlight the two rows to create a scatterplot to find the relationship between household income and incarceration rates for the lowest 25th percentile in Baltimore.
+
