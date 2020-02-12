@@ -1,3 +1,7 @@
-# Comparing the household income and incarceration rate between Baltimore, MD and Lower Manhattan, NY
+# Comparing the household income and incarceration rate in Baltimore, MD and Lower Manhattan, NY
 ## Background
-Looking at the relationship between household income and incarceration rates for the lowest 25th percentile (all races, all genders) of people in Baltimore and in Lower Manhattan
+Analyzing the differences between household income for the lowest 25th percentile of people (all races, all genders) in Baltimore and Lower Manhattan. Also looking at if there is a relationship between incarceration rates and household income in the two locations. 
+
+## Household Income
+### Baltimore, MD
+After downloading the data for household income by census tract from [Opportunity Atlas] (https://www.opportunityatlas.org), filter the county name for Baltimore, MD. 
