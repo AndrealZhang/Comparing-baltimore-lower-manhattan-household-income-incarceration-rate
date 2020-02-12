@@ -9,3 +9,7 @@ After downloading the data for household income by census tract from [Opportunit
 ![alt_text](https://github.com/AndrealZhang/Comparing-baltimore-lower-manhattan-household-income-incarceration-rate/blob/master/Baltimore_Pivot.png)
 
 From this bar chart with the average line, we can see that the average household income for the lowest 25th percentile of those in Baltimore is around $32,626. 
+
+### Lower Manhattan, NY
+After filtering the household incomes for the tracts within Lower Manhattan and calculating the average household income, we can create a Pivot Table and Pivot Chart for household income in Lower Manhattan.
+
