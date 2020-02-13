@@ -5,7 +5,7 @@
 
 ## Household Income
 ### Baltimore, MD
-After downloading the data for household income by census tract from [Opportunity Atlas](https://www.opportunityatlas.org), Using the filtered data along with a calculated aveerage line, we can create a Pivot Chart.
+After downloading the data for household income by census tract from [Opportunity Atlas](https://www.opportunityatlas.org), Using the filtered data along with a calculated average line, we can create a Pivot Chart.
 
 ![alt_text](https://github.com/AndrealZhang/Comparing-baltimore-lower-manhattan-household-income-incarceration-rate/blob/master/Baltimore_Pivot.png)
 
@@ -28,5 +28,6 @@ Download the incarceration rates data by census tract from [Opportunity Atlas](h
 We see that as income rises, incarceration rates fall. 
 
 ### Lower Manhattan, NY
+![alt_text](https://github.com/AndrealZhang/Comparing-baltimore-lower-manhattan-household-income-incarceration-rate/blob/master/lower_manhattan_scatterplot.png) 
 
-
+Unlike the relationship found looking at the data in Baltimore, there seems to be no strong relationship between incarceration rates and household income in Lower Manhattan.
