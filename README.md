@@ -34,4 +34,5 @@ Unlike the relationship found in Baltimore, there seems to be no strong relation
 ## Summary and Implications
 1. The average household income for the lowest 25th percentile is $6,000 higher in Lower Manhattan ($38,607) than in Baltimore ($32,626).
 2. The average incarceration rate is 0.012 lower in Lower Manhattan (0.013) than in Baltimore (0.025).
-3. 
+3. There is a stronger negative relationship between incarceration rates and household income in Baltimore than in Manhattan.
+
